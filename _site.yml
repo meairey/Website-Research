@@ -1,0 +1,5 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
