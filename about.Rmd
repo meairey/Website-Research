@@ -1,12 +1,26 @@
 ---
-title: "about"
-author: "Montana"
-date: "10/1/2020"
-output: html_document
+title: "University Experience"
+output: 
+  html_document:
+    theme: sandstone
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Abpit
+## Academic History {.tabset .tabset-fade .tabset-pills}
+
+### Cornell University 
+
+- PhD Student (2019 to Present)
+
+### Columbia University
+
+- M.A. Student in Ecology, Evolution, and Environmental Biology (2017 to 2019)
+
+
+### Boston University 
+
+- B.A. in Marine Science (2013-2017)
+- B.A. in Environmental Science (2013-2017)
