@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - PhD Student (2019 to Present)
 
-### Columbia University
+### Columbia University!
 
 - M.A. Student in Ecology, Evolution, and Environmental Biology (2017 to 2019)
 
